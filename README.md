@@ -19,7 +19,7 @@ A feature‑rich Bash script to simplify SSH connections, file transfers, and pe
 - 🧪 Robust input validation for ports, usernames, and hosts  
 
 ---
-
+Make sh file and copy code !
 
 ```
 
